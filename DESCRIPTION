@@ -1,0 +1,12 @@
+Package: sendgridR
+Type: Package
+Title: Inofficial Sendgrid R Interface
+Version: 0.1-0
+Date: 2017-02-07
+Author: Ronald Hochreiter <ron@hochreiter.net>
+Maintainer: Ronald Hochreiter <ron@hochreiter.net>
+Description: Inofficial Sendgrid R Interface
+Depends:
+  R (>= 3.0)
+License: GPL-3
+URL: http://www.github.com/rhochreiter/
